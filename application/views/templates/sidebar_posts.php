@@ -1,7 +1,7 @@
 <div class="dashboard-sidebar span3">
 <!--Sidebar content-->
 	<div class="profile-picture-holder">
-		<img src="<?php echo base_url(); ?>img/profile_full/<?php echo $this->session->userdata('full_pic')?>" class="img-polaroid"/>				
+		<img src="<?php echo base_url(); ?>img/profile_full/<?php echo $this->session->userdata('full_pic')?>" class="img-polaroid img-circle"/>				
 	</div>
 	
 	<div class="profile-info-holder">

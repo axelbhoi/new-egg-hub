@@ -28,6 +28,8 @@ class Profile extends CI_Controller {
 		
 		$data['mail'] = $this->session->userdata('email');
 		
+		$data['loggeds'] = $this->user_model->get_active_users();
+		
 		$data['user'] = $this->user_model->getUserData($this->session->userdata('email'));
 		
 		$data['details'] = $this->profile_model->get_all_values($this->session->userdata('email'));

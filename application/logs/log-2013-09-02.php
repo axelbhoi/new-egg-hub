@@ -1110,3 +1110,4 @@ ERROR - 2013-09-02 06:59:03 --> Severity: Notice  --> Undefined variable: alls C
 ERROR - 2013-09-02 06:59:03 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\new-egg-hub\application\controllers\main.php 60
 ERROR - 2013-09-02 06:59:03 --> Severity: Notice  --> Undefined variable: total C:\xampp\htdocs\new-egg-hub\application\controllers\main.php 67
 ERROR - 2013-09-02 06:59:03 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\new-egg-hub\application\views\templates\sidebar_posts.php 21
+ERROR - 2013-09-02 19:14:36 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\xampp\htdocs\new-egg-hub\system\database\drivers\mysql\mysql_driver.php 91

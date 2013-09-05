@@ -48,7 +48,7 @@
 										</div>		
 										<div class = "span11">								
 												<span style = "color:#E81919;font-weight:bold"><?php echo $chat->user_name;?>:</span>
-												<span style = "color:#C24C4C" class = "messages_from_chat">&nbsp<?php echo $chat->chat_message_content;?></span>
+												<span style = "color:#C24C4C" class = "messages_from_chat">&nbsp;<?php echo $chat->chat_message_content;?></span>
 										</div>
 									
 									</div>

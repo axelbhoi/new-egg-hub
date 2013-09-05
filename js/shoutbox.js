@@ -96,7 +96,7 @@ $(document).ready(function(){
 										'</div>'+
 										'<div class = "span11">'+
 											'<span style = "color:#E81919;font-weight:bold">'+data.name+':</span>'+
-											'<span style = "color:#C24C4C" class = "messages_from_chat">&nbsp'+data.message+'</span>'+
+											'<span style = "color:#C24C4C" class = "messages_from_chat">&nbsp;'+data.message+'</span>'+
 										'</div>'+
 									'</div>'+
 									'<div class = "span4">'+
